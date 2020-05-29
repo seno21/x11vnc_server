@@ -1,4 +1,4 @@
-# x11vnc_server
+### x11vnc_server
 
 Ini adalah script bash yg dibuat sederhana
 agar anda tidak perlu repot untuk membuat scritp .service
@@ -12,9 +12,9 @@ cara pakai
 masukan password 
 selesai
 
-# TESTED
+### TESTED
 * Linux Mint 19
 * Ubuntu 18.4
 * Xubuntu 19
 
-# thanks
+### thanks
