@@ -12,4 +12,9 @@ cara pakai
 masukan password 
 selesai
 
+# TESTED
+Linux Mint 19
+Ubuntu 18.4
+Xubuntu 19
+
 # thanks
