@@ -12,7 +12,7 @@ cara pakai
 masukan password 
 selesai
 
-### TESTED
+### Tested
 * Linux Mint 19
 * Ubuntu 18.4
 * Xubuntu 19
