@@ -14,6 +14,7 @@ cara pakai
 #bash auto_vnc.sh
 ```
 masukan password 
+
 selesai
 
 ### Tested
