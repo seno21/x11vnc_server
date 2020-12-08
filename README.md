@@ -8,10 +8,10 @@ cara pakai
 #cd x11vnc_server
 ```
 ```
-#chmod +x auto_vnc.sh
+#chmod +x vnc_server.sh
 ```
 ```
-#bash auto_vnc.sh
+#./vnc_server.sh
 ```
 masukan password 
 
